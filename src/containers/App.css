@@ -5,11 +5,11 @@ body{background: linear-gradient(to left,#8360c3,#2ebf91);}
     font-family: 'SEGA LOGO FONT';
     font-style: normal;
     font-weight: normal;
-    src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+    src: local('SEGA LOGO FONT'), url('../SEGA.woff') format('woff');
 }
 h1
 {
     font-family: 'SEGA LOGO FONT', Algerian, SansSerif, serif;
-    color: whitesmoke;
+    color: lightskyblue;
     font-weight: 200;
 }
